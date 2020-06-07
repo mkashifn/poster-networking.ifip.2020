@@ -1,7 +1,7 @@
 # Poster: A Semi-Supervised Framework to Detect Botnets in IoT Devices
 
 ## YouTube Presentation
-https://www.youtube.com/watch?v=btih9yeWDps&feature=youtu.be
+https://youtu.be/gEA8fcA1oTw
 
 ## Authors:
 ### Kashif Naveed
