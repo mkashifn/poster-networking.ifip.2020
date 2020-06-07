@@ -1,5 +1,7 @@
 # Poster: A Semi-Supervised Framework to Detect Botnets in IoT Devices
 
+![Poster: A Semi-Supervised Framework to Detect Botnets in IoT Devices](poster-16-9.png?raw=true "Poster: A Semi-Supervised Framework to Detect Botnets in IoT Devices")
+
 ## YouTube Presentation
 https://youtu.be/gEA8fcA1oTw
 
